@@ -1,4 +1,10 @@
 
+<body style="background-color:#171515;">
+<div align="center">
+  <a href="https://rahatsayyed.netlify.app/"> <img src="https://github.com/FaizanShaikh-3033/FaizanShaikh-3033/assets/68136265/1f626d6d-e795-4116-98ea-97724500cfe9" ></a>
+</div>
+</body>
+<br>
 # 💫 About Me:
 👋 Hello, I'm Faizan Shaikh<br>🔭 I’m interestd in Functional and Object Oriented Programming<br>👯 Open to collaborations in pushing the boundaries of blockchain<br>🌱 I’m currently learning Blockchain Technology<br>📫 How to reach me <a href="mailto:faizanvit8@gmail.com" rel="nofollow">mail me</a>
 
@@ -16,4 +22,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
