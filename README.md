@@ -5,7 +5,7 @@
 </div>
 </body>
 <br>
-💫 About Me:
+## 💫 About Me:
 👋 Hello, I'm Faizan Shaikh<br>🔭 I’m interestd in Functional and Object Oriented Programming<br>👯 Open to collaborations in pushing the boundaries of blockchain<br>🌱 I’m currently learning Blockchain Technology<br>📫 How to reach me <a href="mailto:faizanvit8@gmail.com" rel="nofollow">mail me</a>
 
 
